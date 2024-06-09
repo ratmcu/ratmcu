@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <h3>LeetCode Stats:</h3>
 
 <div>
-  <img width="45%" src="https://leetcard.jacoblin.cool/miraq?theme=nord" />
+  <img width="45%" src="https://leetcard.jacoblin.cool/miraq?theme=light&font=Chivo%20Mono" />
 </div>
 
 <!--
